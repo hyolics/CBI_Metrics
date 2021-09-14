@@ -1,2 +1,3 @@
 # CBI_Metrics
-整合各產品C
+CBI = Customer Behavior Index 
+利用UI Log data將Users進入產品的行為量化為Index
