@@ -1,4 +1,5 @@
 # CBI_Metrics  
+Status: in process
 CBI = Customer Behavior Index，將Users進入產品的行為量化為Metrics  
 整合不同DB(AWS, MySQL, MongoDB, Postgresql) UI Log data  
   
